@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1770803375381
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1771943609549
+    },
+    "tavily": {
+      "version": "1.0.0",
+      "installedAt": 1771943614814
+    }
+  }
+}
