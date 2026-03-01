@@ -52,15 +52,23 @@
         高优先级："之前/昨天/怎么样了/记得"
         中优先级：项目名/人名/决策
               ↓ 命中？
-        L2 语义搜索（memory_search工具）
+        L2 语义搜索（smart_search.js）
               ↓
         返回相关记忆片段（7天内1.5x权重）
 ```
+
+**技术实现：**
+- **引擎**: `smart_search.js` (Node.js)
+- **Embedding**: DashScope text-embedding-v3
+- **相似度**: 余弦相似度
+- **缓存**: `.embedding_cache.json` (增量更新)
 
 **时效性权重：**
 - 7天内记忆：1.5x 优先级
 - 30天内记忆：1.2x 优先级
 - 超过90天：常规权重
+
+**使用:** `node smart_search.js "查询文本"`
 
 ### 主动维护（PCEC协议）
 | 任务 | 频率 | 执行内容 |
