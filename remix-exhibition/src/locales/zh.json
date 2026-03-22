@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "ReMix",
+    "subtitle": "展陈设计效率体系",
+    "tagline": "让 <1>10人设计部</1> 变成 <1>2人</1>，年省 <1>40万+</1>",
+    "cta": "预约演示"
+  },
+  "painPoints": {
+    "title": "您的困扰",
+    "cards": {
+      "team": {
+        "title": "养不起大团队",
+        "desc": "又需要出高质量方案，人力成本压得喘不过气"
+      },
+      "repetition": {
+        "title": "重复劳动太多",
+        "desc": "设计部人不少，但大部分时间在建模、等渲染"
+      },
+      "cycle": {
+        "title": "项目周期被拖长",
+        "desc": "策划等设计、设计等建模，效率低下"
+      },
+      "bidding": {
+        "title": "投标总是输",
+        "desc": "对手效果图比你的好，丢单子"
+      }
+    }
+  },
+  "data": {
+    "title": "降本增效，数据说话",
+    "table": {
+      "item": "对比项",
+      "traditional": "传统模式",
+      "remix": "ReMix模式",
+      "effect": "效果",
+      "teamSize": "团队规模",
+      "cost": "年人力成本",
+      "cycle": "建模出图效率",
+      "passRate": "方案过稿率"
+    },
+    "note": "*基于中型展陈设计团队真实数据测算，保守区间年省35-60万"
+  },
+  "solution": {
+    "title": "解决方案",
+    "subtitle": "ReMix 不是替代设计师，是让设计师做更有价值的事",
+    "cards": {
+      "ai": {
+        "title": "把重复劳动交给AI",
+        "desc": "建模、渲染、出图效率提升3-5倍"
+      },
+      "value": {
+        "title": "让人做更有价值的事",
+        "desc": "总监和策划聚焦创意和商务"
+      },
+      "speed": {
+        "title": "快速出高质量方案",
+        "desc": "首轮概念就能达到传统二轮效果图深度"
+      },
+      "dependency": {
+        "title": "降低对昂贵熟手的依赖",
+        "desc": "培养高效执行层，降低人力成本"
+      }
+    }
+  },
+  "pricing": {
+    "title": "年度服务套餐",
+    "packages": {
+      "entry": {
+        "title": "入门落地",
+        "price": "¥28,000",
+        "desc": "8节定制技术课，每月1次答疑"
+      },
+      "standard": {
+        "title": "技能提升",
+        "price": "¥48,000",
+        "desc": "24节定制技术课，实操批改+团队测评"
+      },
+      "advanced": {
+        "title": "深度适配",
+        "price": "¥68,000",
+        "desc": "24节全定制课程，项目陪跑+1v1辅导"
+      },
+      "enterprise": {
+        "title": "企业定制",
+        "price": "¥128,000",
+        "desc": "全面驻场改造，全年不限次支持"
+      }
+    }
+  },
+  "cta": {
+    "title": "不用先相信，先看效果",
+    "subtitle": "效果演示",
+    "phone": "18100808318"
+  },
+  "gallery": {
+    "title": "效果演示",
+    "subtitle": "见证 ReMix 体系带来的展陈设计效率变革。"
+  },
+  "footer": {
+    "text": "ReMix —— 展陈设计行业的效率重构方案",
+    "zcool": "站酷",
+    "xiaohongshu": "小红书"
+  }
+}

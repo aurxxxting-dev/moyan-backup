@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "ReMix",
+    "subtitle": "Exhibition Design Efficiency System",
+    "tagline": "Turn a <1>10-person design department</1> into <1>2 people</1>, saving <1>400k+</1> annually",
+    "cta": "Book a Demo"
+  },
+  "painPoints": {
+    "title": "Your Challenges",
+    "cards": {
+      "team": {
+        "title": "High Team Costs",
+        "desc": "Struggling to maintain a high-quality design team due to rising labor costs."
+      },
+      "repetition": {
+        "title": "Repetitive Tasks",
+        "desc": "Designers spend most of their time on modeling and waiting for renders."
+      },
+      "cycle": {
+        "title": "Long Project Cycles",
+        "desc": "Inefficient workflows between planning, design, and modeling."
+      },
+      "bidding": {
+        "title": "Losing Bids",
+        "desc": "Losing projects because competitors produce better visuals faster."
+      }
+    }
+  },
+  "data": {
+    "title": "Efficiency by the Numbers",
+    "table": {
+      "item": "Comparison",
+      "traditional": "Traditional",
+      "remix": "ReMix",
+      "effect": "Effect",
+      "teamSize": "Team Size",
+      "cost": "Annual Labor Cost",
+      "cycle": "Modeling Efficiency",
+      "passRate": "Approval Rate"
+    },
+    "note": "*Based on real data from mid-sized exhibition design teams."
+  },
+  "solution": {
+    "title": "Our Solution",
+    "subtitle": "ReMix doesn't replace designers; it empowers them.",
+    "cards": {
+      "ai": {
+        "title": "AI-Driven Workflow",
+        "desc": "Boost modeling and rendering efficiency by 3-5x."
+      },
+      "value": {
+        "title": "Focus on Value",
+        "desc": "Let directors and planners focus on creativity and business."
+      },
+      "speed": {
+        "title": "Rapid High-Quality Output",
+        "desc": "First-round concepts reach the depth of traditional second-round renders."
+      },
+      "dependency": {
+        "title": "Reduce Expert Dependency",
+        "desc": "Train efficient executors and lower labor costs."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Service Packages",
+    "packages": {
+      "entry": {
+        "title": "Entry Level",
+        "price": "¥28,000",
+        "desc": "8 custom technical courses, monthly Q&A."
+      },
+      "standard": {
+        "title": "Skill Upgrade",
+        "price": "¥48,000",
+        "desc": "24 custom courses, team assessment, feedback."
+      },
+      "advanced": {
+        "title": "Deep Adaptation",
+        "price": "¥68,000",
+        "desc": "Full custom courses, project coaching, 1v1 support."
+      },
+      "enterprise": {
+        "title": "Enterprise Custom",
+        "price": "¥128,000",
+        "desc": "Full on-site transformation, unlimited support."
+      }
+    }
+  },
+  "cta": {
+    "title": "Don't just believe us, see the results",
+    "subtitle": "Effect Demo",
+    "phone": "18100808318"
+  },
+  "gallery": {
+    "title": "Effect Showcase",
+    "subtitle": "Witness the transformation of exhibition design efficiency through our ReMix system."
+  },
+  "footer": {
+    "text": "ReMix — Efficiency Reconstruction for Exhibition Design",
+    "zcool": "ZCool",
+    "xiaohongshu": "Xiaohongshu"
+  }
+}
